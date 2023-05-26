@@ -1,10 +1,11 @@
 ### Hi 👋
+- ❤️ My name is: Thien Nguyen
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on [Yas,  a sample microservices project in Java](https://github.com/nashtech-garage/yas)
 - 🌱 I’m currently learning .NET, Java, Azure, TypeScript, Next.js and how to build good software.
 - 👯 I’m looking to collaborate on https://github.com/nashtech-garage/yas, https://github.com/simplcommerce/SimplCommerce
-- 💬 I'm the admin of https://www.facebook.com/groups/dotnetvn
-- 😄 I have some videos on Youtube
+- 💬 I'm also the admin of https://www.facebook.com/groups/dotnetvn
+- 😊 I have some videos on Youtube
 
 [![Watch the video](https://img.youtube.com/vi/kJptK82puvA/default.jpg)](https://youtu.be/kJptK82puvA)
 [![Watch the video](https://img.youtube.com/vi/0mHVi1PGxik/default.jpg)](https://youtu.be/0mHVi1PGxik)
