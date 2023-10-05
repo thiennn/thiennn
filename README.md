@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning .NET, Java, Azure, TypeScript, Next.js and how to build good software.
 - 👯 I’m looking to collaborate on https://github.com/nashtech-garage/yas, https://github.com/simplcommerce/SimplCommerce
 - 💬 I'm also the admin of https://www.facebook.com/groups/dotnetvn
+- 📊 My GitHub stats ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thiennn)
 - 😊 I have some videos on Youtube
 
 [![Watch the video](https://img.youtube.com/vi/kJptK82puvA/default.jpg)](https://youtu.be/kJptK82puvA)
